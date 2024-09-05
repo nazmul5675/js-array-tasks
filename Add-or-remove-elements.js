@@ -8,5 +8,5 @@
 let touristSpot = ["Cox's bazar", "Bandar ban", 'Shitakundo'];
 touristSpot.push("Mohasthangor");//Add a new tourist destination on array
 console.log(touristSpot);
-touristSpot.pop();
-console.log(touristSpot);
+touristSpot.pop();//Remove the last tourist destination
+console.log(touristSpot);//final array 
